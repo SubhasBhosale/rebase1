@@ -7,6 +7,7 @@ public class p1 {
 		System.out.println("hello bro");
 		
 		System.out.println("undoing commit msg");
+		System.out.println("undoing commit msg");
 	}
 
 }
